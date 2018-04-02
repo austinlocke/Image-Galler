@@ -1,0 +1,62 @@
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+    background: #ecf0f1;
+}
+
+.navbar-inverse {
+    background-color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.image1 {
+    background-image: url(https://images.unsplash.com/photo-1506254322657-94801f98047f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=261e62ec0f844890c2c4507b4c5be3c4&auto=format&fit=crop&w=804&q=808);
+}
+
+.image2 {
+    background-image: url(https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?ixlib=rb-0.3.5&s=ee4b7c84f2e7b0db7f384eee9e5aced8&auto=format&fit=crop&w=2734&q=808);
+}
+
+.image3 {
+    background-image: url(https://images.unsplash.com/photo-1507506892840-60a3825a6161?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ceb21ff26d5ac8c78b87a9f569e90712&auto=format&fit=crop&w=2734&q=80);
+}
+
+.image4 {
+    background-image: url(https://images.unsplash.com/photo-1493662404096-9ecc84ebba6b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cacb23f3922deb63d0cafb8e857649fc&auto=format&fit=crop&w=1650&q=80);
+}
+
+.image5 {
+    background-image: url(https://images.unsplash.com/photo-1521566878949-d0febfb1e9bb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e3b5ee0942ce548abde8fbd1cb096330&auto=format&fit=crop&w=1974&q=80);
+}
+
+.image6 {
+    background-image: url(https://images.unsplash.com/photo-1494005612480-90f50fd9376f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=36d7fc577cf6a4527cbee851db481b8c&auto=format&fit=crop&w=1653&q=80);
+}
+
+.image7 {
+    background-image: url(https://images.unsplash.com/photo-1509565840034-3c385bbe6451?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9d25cc8624712ad81d4f50bb843cc022&auto=format&fit=crop&w=1789&q=80);
+}
+
+.image8 {
+    background-image: url(https://images.unsplash.com/photo-1515774206252-cd4fa51b83de?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56961b91ced695e28b584ce7e7bee7e7&auto=format&fit=crop&w=668&q=80);
+}
+
+.image9 {
+    background-image: url(https://images.unsplash.com/photo-1497636577773-f1231844b336?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ad244de1a46f13c73957094e78c2379&auto=format&fit=crop&w=2734&q=80);
+}
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
